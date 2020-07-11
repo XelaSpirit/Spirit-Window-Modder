@@ -45,7 +45,7 @@ int main() {
 
 		std::cout << "Moving window to " << x << ", " << y << " with size " << w << "x" << h << std::endl;
 
-		SetWindowPos(win, HWND_BOTTOM, x, y, w, h, SWP_NOACTIVATE);
+		SetWindowPos(win, HWND_BOTTOM, x, y, w, h, 0);
 	}
 	else {
 		std::cout << "Window Not found" << std::endl;
