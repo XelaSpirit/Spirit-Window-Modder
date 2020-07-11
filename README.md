@@ -11,10 +11,10 @@ Windows program for resizing windows that don't normally allow you to resize the
 ### Usage
 * Run the program
 * Enter the full title of the window you want to modify
-* Enter the new position of the window as "<x> <y>"
-  * Example: 10 15
-* Enter the new size of the window as "<width> <height>"
-  * Example: 1920 1080
+* Enter the new position of the window as `<x> <y>`
+  * Example: `10 15`
+* Enter the new size of the window as `<width> <height>`
+  * Example: `1920 1080`
 * Done
 
 ### Credits
