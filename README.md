@@ -11,6 +11,8 @@ Windows program for resizing windows that don't normally allow you to resize the
 ### Usage
 * Run the program
 * Enter the full title of the window you want to modify
+  * This can be seen on the title bar of the window
+  * If there is no title bar, this can also be found by looking at the window on the taskbar
 * Enter the new position of the window as `<x> <y>`
   * Example: `10 15`
 * Enter the new size of the window as `<width> <height>`
